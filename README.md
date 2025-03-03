@@ -1,0 +1,2 @@
+# informatyka
+zadanie Mr.Rasza
